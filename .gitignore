@@ -1,0 +1,12 @@
+# Sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependências e logs
+node_modules/
+*.log
+
+# Script de publicação
+publicar-tudo.sh
